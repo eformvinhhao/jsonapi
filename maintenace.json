@@ -3,54 +3,63 @@
     "image": "./img/CIP_Expert-icon.jpg",
     "name": "Nhật ký vận hành máy phát điện",
     "id": "VHW/BT/HD-018/BM01",
-    "version": "12",
-    "uselink": "./Nhât_kí_VH_MPD.html",
+    "version": "187",
+    "uselink": "./static_form/Nhât_kí_VH_MPD.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B3E57D2C5-E3F4-4A58-AB01-CFA845873699%7D&file=Nh%E1%BA%ADt_k%C3%AD_VH_MPD_Utilyti.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
-    "date": "12-Jun-2025"
+    "date": "12-Jun-2200"
   },
   {
     "image": "./img/CIP_Expert-icon.jpg",
     "name": "Nhật ký vận hành lò hơi Biomass",
     "id": "VHW/BT/HD-056/BM01",
-    "version": "12",
-    "uselink": "./Nhật_kí_VH_lò_hơi.html",
+    "version": "188",
+    "uselink": "./static_form/Nhật_kí_VH_lò_hơi.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B982B6096-C165-40CA-BBB0-761A597D357E%7D&file=Nh%E1%BA%ADt_k%C3%AD_VH_l%C3%B2_h%C6%A1i_Utilyti.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
-    "date": "12-Jun-2025"
+    "date": "12-Jun-2201"
   },
   {
     "image": "./img/CIP_Expert-icon.jpg",
     "name": "Nhật ký vận hành máy nén khí Lento",
     "id": "VHW/BT/HD-021/BM01",
-    "version": "12",
-    "uselink": "./Nhật_kí_máy_nén_khí_Lento.html",
+    "version": "189",
+    "uselink": "./static_form/Nhật_kí_máy_nén_khí_Lento.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B5BF07AAB-FA3B-468E-979A-27131C38697C%7D&file=Nh%E1%BA%ADt_k%C3%AD_VH_m%C3%A1y_n%C3%A9n_kh%C3%AD_Lento_Utilyti.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
-    "date": "12-Jun-2025"
+    "date": "12-Jun-2202"
   },
   {
     "image": "./img/CIP_Expert-icon.jpg",
     "name": "Nhật ký vận hành bồn CO2",
     "id": "VHW/BT/HD-021/BM01",
-    "version": "12",
+    "version": "190",
     "uselink": "https://forms.office.com/r/zQZj4HDFwH",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BD8399071-6A31-4B57-9E77-8E2F91F4701C%7D&file=Data_Nh%C3%A2%CC%A3t_ki%CC%81_VH_b%C3%B4%CC%80n_CO2.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
-    "date": "12-Jun-2025"
+    "date": "12-Jun-2203"
   },
   {
     "image": "./img/CIP_Expert-icon.jpg",
     "name": "Nhật ký vận hành máy lạnh NH3",
     "id": "VHW/BT/HD-023/BM01",
-    "version": "12",
+    "version": "191",
     "uselink": "https://forms.office.com/r/fp8Hp4Fmpv",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BA2B6A56E-EBA2-489A-A7C3-B835AAEC4711%7D&file=VHW_BT_HD-023_BM01%20-%20NH%E1%BA%ACT%20K%C3%9D%20M%C3%81Y%20L%E1%BA%A0NH%20NH3.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=520bad19-bc4b-4f6d-bb63-1996422d698e&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2025"
+    "date": "12-Jun-2204"
   },
   {
     "image": "./img/CIP_Expert-icon.jpg",
     "name": "Nhật ký vận hành máy nén khí cao áp ABC",
     "id": "BM01.VH/HD/05",
-    "version": "12",
+    "version": "193",
     "uselink": "https://forms.office.com/r/uhWrpv13wQ",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B52C852EE-2109-4627-AFD9-DFED845391EC%7D&file=BM01.VH_HD-BT_05%20-%C2%A0NH%E1%BA%ACT%20K%C3%9D%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20N%C3%89N%20CAO%20%C3%81P%20ABC.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=0025b0df-30a1-4ff6-bdbe-9e59ae2b602f&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2025"
+    "date": "12-Jun-2206"
+  },
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
+    "name": "Nhật ký vận hành máy chiller bitzer",
+    "id": "BM01.VH/HD/BT-06",
+    "version": "194",
+    "uselink": "https://forms.office.com/r/QtbVKsPNZy",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B1B20EAEE-F3E1-491D-BB9C-1E92E3F273FD%7D&file=VH_BT-HD-06_BM01%20-%C2%A0NH%E1%BA%ACT%20K%C3%9D%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20N%C3%89N%20L%E1%BA%A0NH%20CHILLER%20BITZER.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=a86059a3-e2f6-483c-ab0c-504710e8f8ab&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2207"
   }
 ]
