@@ -1,1 +1,56 @@
-
+[
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
+    "name": "Phiếu kiểm tra vệ sinh hàng ngày",
+    "id": "VHW/KV/QĐ-005/BM01",
+    "version": "110",
+    "uselink": "https://forms.office.com/r/Gd7795hQL1",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B541B013C-C0E4-4122-84D7-675BE0999238%7D&file=Data_PHI%E1%BA%BEU_KI%E1%BB%82M%20TRA%20V%E1%BB%86%20SINH%20H%C3%80NG%20NG%C3%80Y.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2123"
+  },
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
+    "name": "Bảng kê nhâp bao bì thu hồi hàng ngày",
+    "id": "VHW/KV/QĐ-005/BM03",
+    "version": "111",
+    "uselink": "https://forms.office.com/r/NPLmmSvWjL?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BCDD16667-505C-42FD-BE28-BC11BEA7ED13%7D&file=Data_B%E1%BA%A3ng%20k%C3%AA%20bao%20b%C3%AC%20thu%20h%E1%BB%93i.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
+    "date": "12-Jun-2124"
+  },
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
+    "name": "Phiếu kiểm tra Pallet ( A5)",
+    "id": "VHW/KV/QĐ-03/BM02",
+    "version": "115",
+    "uselink": "https://forms.office.com/r/sSLRBukiNM",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE9B7898E-F069-487D-8D9B-AE2E13316A1A%7D&file=Data%20-%C2%A0PHI%E1%BA%BEU%20KI%E1%BB%82M%20TRA%20PALLET%20(A5).xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2128"
+  },
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
+    "name": "Phiếu kiểm tra Container/Xe (A5)",
+    "id": "VHW/KV/QT-001/BM03",
+    "version": "121",
+    "uselink": "https://forms.office.com/r/J0KZtGJGKJ?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B10972FF6-01E8-425C-B6C7-8CF7F78D7B73%7D&file=Data_PHI%E1%BA%BEU%20KI%E1%BB%82M%20TRA%20XE%202.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
+    "date": "12-Jun-2134"
+  },
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
+    "name": "Điều kiện vệ sinh khu vực bảo quản hóa chất",
+    "id": "VHW/ATTP/SSOP-005/BM01",
+    "version": "124",
+    "uselink": "https://forms.office.com/r/2ULMADSKGh?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B52D247B1-2357-477F-8BDD-21D614A7E63C%7D&file=Data_%C4%90i%E1%BB%81u%20ki%E1%BB%87n%20v%E1%BB%87%20sinh%20khu%20v%E1%BB%B1c%20h%C3%B3a%20ch%E1%BA%A5t.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2137"
+  },
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
+    "name": "Biểu mẫu kiểm soát động vật gây hại",
+    "id": "VHW/ATTP/SSOP-007/BM01",
+    "version": "125",
+    "uselink": "https://forms.office.com/r/3dktNnsMkc",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B16820F54-DE66-49E7-95AA-8069A9145AD7%7D&file=Data_SSOP%2007_KS_%C4%91%E1%BB%99ng_v%E1%BA%ADt_g%C3%A2y_h%E1%BA%A1i.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2138"
+  }
+]
