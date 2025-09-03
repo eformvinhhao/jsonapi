@@ -130,7 +130,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 3 bước Chlorine Line 1, 2",
     "id": "VHC/SX-HD-10/BM01",
     "version": "149",
-    "uselink": "./static_form/3B_Chlorine_Line1,2.html",
+    "uselink": "./static_form/3B_CHLORINE_L12_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BC142F84A-B221-4357-99FB-0968097B625D%7D&file=3B_Chlorine_line%201%2C2.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2162"
   },
@@ -139,7 +139,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 3 bước Chlorine Filler - Mixer carbo Line 1, 2",
     "id": "VHC/SX-HD-10/BM02",
     "version": "150",
-    "uselink": "./static_form/3B_Chlorine_Filer_Mixer_Carbo_Line1,2.html",
+    "uselink": "./static_form/3B_CHLORINE_FILLER_MIXER_CARBO_L12_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B00B7D3CE-10DB-4DC2-A237-4D7ACA2D52DC%7D&file=Data_3B_Chlorine_Carbo_Mixer_line%202.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2163"
   },
@@ -148,7 +148,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 5 bước hóa chất Line 1, 2",
     "id": "VHC/SX-HD-10/BM03",
     "version": "151",
-    "uselink": "./static_form/5B_HC_Acid_Line1,2.html",
+    "uselink": "./static_form/5B_HC_ACID_L12_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BEA26E18D-E65F-4051-9332-29C1A75BAF1C%7D&file=5B_HC_line12.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2164"
   },
@@ -157,7 +157,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 5 bước hóa chất Filler - Mixer carbo Line 1, 2",
     "id": "VHC/SX-HD-10/BM04",
     "version": "152",
-    "uselink": "./static_form/5B_HC_Carbomixer_Line 2.html",
+    "uselink": "./static_form/5B_HC_CARBOMIXER_L2_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B1D3834F3-00A1-4F9C-8243-A11F3E57D0D4%7D&file=5B_HC_CarboMixer.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2165"
   },
@@ -166,7 +166,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 3 bước Chlorine Line 3",
     "id": "VHC/SX/HD-41/BM01",
     "version": "154",
-    "uselink": "./static_form/3B_Chlorine_Line3.html",
+    "uselink": "./static_form/3B_CHLORINE_L3_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B939C8BB9-D675-4B39-8298-2CF62465157C%7D&file=3Bchlorine-Line3.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
     "date": "12-Jun-2167"
   },
@@ -175,7 +175,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 5 bước acid citric Line 3",
     "id": "VHC/SX/HD-41/BM02",
     "version": "155",
-    "uselink": "./static_form/5B_Acid_Line3.html",
+    "uselink": "./static_form/5B_ACID_L3_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B3E57D2C5-E3F4-4A58-AB01-CFA845873699%7D&file=5B_acid_line3.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2168"
   },
@@ -184,7 +184,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP hệ thống UF line 3",
     "id": "VHW/SX/HD-41/BM04",
     "version": "156",
-    "uselink": "./static_form/UF Line3.html",
+    "uselink": "./static_form/UF_L3_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B9E2D4B9A-75FC-4ED6-88F9-E17EF882A9C1%7D&file=UF_line3.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2169"
   },
@@ -193,7 +193,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 7 bước Divo + Acid +UF",
     "id": "VHC/SX-HD-041/BM03",
     "version": "157",
-    "uselink": "./static_form/7B_Divo_Acid_Line3.html",
+    "uselink": "./static_form/7B_DIVO_ACID_L3_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B62E0AA5A-CEE0-4FD6-863E-B85F5C9B827A%7D&file=7B_Divo_acid_line3.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2170"
   },
@@ -202,7 +202,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 3 bước Clorine Line 4",
     "id": "VHW/SX/HD-044/BM01",
     "version": "158",
-    "uselink": "./static_form/3B_Chlorine_Line4.html",
+    "uselink": "./static_form/3B_CHLORINE_L4_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BF57C76B4-CA9F-4617-8088-F565BC52EC1A%7D&file=3B_Chlorine_Line4.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2171"
   },
@@ -211,7 +211,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 3 bước nóng Line 4",
     "id": "VHW/SX/HD-044/BM02",
     "version": "159",
-    "uselink": "./static_form/3B_Nóng_Line4.html",
+    "uselink": "./static_form/3B_NONG_L4_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B553515A9-7542-4FF3-82E6-30280A96992B%7D&file=3B_No%CC%81ng_Line4.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2172"
   },
@@ -220,7 +220,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 5 bước hóa chất Line 4",
     "id": "VHW/SX/HD-044/BM03",
     "version": "160",
-    "uselink": "./static_form/5B_HC_Line4.html",
+    "uselink": "./static_form/5B_HC_L4_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B299EA704-B396-4F5D-9438-66D8C61B4B62%7D&file=5B_HC_Line4.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2173"
   },
@@ -229,7 +229,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 5 bước Cyclodextrin Line 4",
     "id": "VHW/SX/HD-044/BM04",
     "version": "161",
-    "uselink": "./static_form/5B_HC_Line4.html",
+    "uselink": "./static_form/5B_HC_L4_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BD1F96924-C1D7-4E6B-B4E2-72611D8FC20F%7D&file=5B_Cyclodextrin_Line4.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2174"
   },
@@ -238,7 +238,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 7 bước Cyclodextrin Line 4",
     "id": "VHW/SX/HD-044/BM05",
     "version": "162",
-    "uselink": "./static_form/7B_Cyclodextrine_Line4.html",
+    "uselink": "./static_form/7B_CYCLO_L4_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BA2E3E5DE-24E2-48EA-9F7A-4B7B8F8A3B05%7D&file=7B_Cyclodextrin_Line4.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2175"
   },
@@ -247,7 +247,7 @@
     "name": "Biểu mẫu ghi nhận quá trình CIP 3 bước Divoflow Line 4",
     "id": "VHW/SX/HD-044/BM06",
     "version": "163",
-    "uselink": "./static_form/3B_Divoflow_Line4.html",
+    "uselink": "./static_form/3B_DIVO_L4_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B1C3F1470-C4AF-4250-BCE8-9E5CD66E6176%7D&file=3B_Divoflow_Line4.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2176"
   },
@@ -256,7 +256,7 @@
     "name": "BIỂU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC ACID HCL LINE 4",
     "id": "VHW/SX/HD-044/BM07",
     "version": "164",
-    "uselink": "./static_form/3B_HCL_line4.html",
+    "uselink": "./static_form/3B_HCL_L4_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B1B3CC1E8-13DD-4DCD-96BF-EEBA57ECCA50%7D&file=3B_HCL_Line4.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2177"
   },
