@@ -4,7 +4,7 @@
     "name": "Nhật ký vận hành máy phát điện",
     "id": "VHW/BT/HD-018/BM01",
     "version": "187",
-    "uselink": "./static_form/Nhât_kí_VH_MPD.html",
+    "uselink": "./static_form/NKVH_MAY_PHAT_DIEN_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B3E57D2C5-E3F4-4A58-AB01-CFA845873699%7D&file=Nh%E1%BA%ADt_k%C3%AD_VH_MPD_Utilyti.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2200"
   },
@@ -13,7 +13,7 @@
     "name": "Nhật ký vận hành lò hơi Biomass",
     "id": "VHW/BT/HD-056/BM01",
     "version": "188",
-    "uselink": "./static_form/Nhật_kí_VH_lò_hơi.html",
+    "uselink": "./static_form/NKVH_LO_HOI_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B982B6096-C165-40CA-BBB0-761A597D357E%7D&file=Nh%E1%BA%ADt_k%C3%AD_VH_l%C3%B2_h%C6%A1i_Utilyti.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2201"
   },
@@ -22,7 +22,7 @@
     "name": "Nhật ký vận hành máy nén khí Lento",
     "id": "VHW/BT/HD-021/BM01",
     "version": "189",
-    "uselink": "./static_form/Nhật_kí_máy_nén_khí_Lento.html",
+    "uselink": "./static_form/NKVH_MAY_NEN_KHI_LENTO_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B5BF07AAB-FA3B-468E-979A-27131C38697C%7D&file=Nh%E1%BA%ADt_k%C3%AD_VH_m%C3%A1y_n%C3%A9n_kh%C3%AD_Lento_Utilyti.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2202"
   },
@@ -43,6 +43,15 @@
     "uselink": "https://forms.office.com/r/fp8Hp4Fmpv",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BA2B6A56E-EBA2-489A-A7C3-B835AAEC4711%7D&file=VHW_BT_HD-023_BM01%20-%20NH%E1%BA%ACT%20K%C3%9D%20M%C3%81Y%20L%E1%BA%A0NH%20NH3.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=520bad19-bc4b-4f6d-bb63-1996422d698e&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
     "date": "12-Jun-2204"
+  },
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
+    "name": "Nhật ký vận hành máy nén khí HItachi",
+    "id": "VHW/BT/HD-024/BM01",
+    "version": "192",
+    "uselink": "https://forms.office.com/r/NeYdZVTLiG",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B58C72E13-AD99-4B55-880F-A2A27F3BB012%7D&file=VHW_BT_HD-024_BM01%20-%C2%A0NH%E1%BA%ACT%20K%C3%9D%20M%C3%81Y%20N%C3%89N%20KH%C3%8D%20HITACHI.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=54a5c9f3-5b01-4b91-8c47-6e1843ff3dd6&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2205"
   },
   {
     "image": "./img/CIP_Expert-icon.jpg",
