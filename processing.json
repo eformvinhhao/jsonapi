@@ -55,6 +55,15 @@
   },
   {
     "image": "./img/CIP_Expert-icon.jpg",
+    "name": "BM kiểm tra nhập nguyên vật liệu phụ gia",
+    "id": "VHW/KTCN/HD-001/BM01",
+    "version": "22",
+    "uselink": "./static_form/BM_KIEM_TRA_NVL_file1",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B53BF7E41-DF2D-45A1-B3DA-FFE95915498C%7D&file=Data_BM_KIEM_TRA_NHAP_NVL.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2035"
+  },
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
     "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước tăng lực Wake-up 247 - 32,000L",
     "id": "VHW/KTCN/HD-001/BM03",
     "version": "23",
