@@ -4,7 +4,7 @@
     "name": "BM ghi nhận quá trình chế biến syrup sản phẩm: Nước tăng lực vị cà phê Wake-up 247 - 32,000L",
     "id": "VHW/KTCN/GMP-001/BM01",
     "version": "12",
-    "uselink": "./static_form/NAU_SYRUP_247_32000.html",
+    "uselink": "./static_form/NAU_SYRUP_247_32000_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BD388CF62-03D4-4324-BE6C-679138E3FE9D%7D&file=Data_NAU_SYRUP_LEMONA_32000.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2025"
   },
@@ -13,7 +13,7 @@
     "name": "BM ghi nhận quá trình chế biến Syrup Compact Cafe mẻ 20K",
     "id": "VHW/KTCN/GMP-001/BM02",
     "version": "13",
-    "uselink": "./static_form/NAU_SYRUP_COMPACT_CA_PHE_20000.html",
+    "uselink": "./static_form/NAU_SYRUP_COMPACT_CA_PHE_20000_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B08747F64-C194-4CEA-87AD-880610127519%7D&file=Data_NAU_SYRUP_247_16000.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2026"
   },
@@ -22,7 +22,7 @@
     "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước tăng lực Compact Cafe mẻ 20K",
     "id": "VHC/KTCN/HD-001/BM02",
     "version": "14",
-    "uselink": "./static_form/CAN_COMPACT_CA_PHE_20000.html",
+    "uselink": "./static_form/CAN_COMPACT_CA_PHE_20000_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BAC8CECAD-76C8-41E3-9300-2931B4E73002%7D&file=Data_CAN_COMPACT_CA_PHE_20000.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2027"
   },
@@ -31,7 +31,7 @@
     "name": "BM ghi nhận quá trình chế biến syrup sản phẩm: Nước giải khát hương chanh có gas Lemona khoáng chanh 64000L",
     "id": "VHW/KTCN/GMP-001/BM03",
     "version": "15",
-    "uselink": "./static_form/NAU_SYRUP_LEMONA_64000.html",
+    "uselink": "./static_form/NAU_SYRUP_LEMONA_64000_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE7E2DAC6-432E-4344-8925-CD53064D0548%7D&file=Data_CAN_LEMONA_64000.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
     "date": "12-Jun-2028"
   },
@@ -40,7 +40,7 @@
     "name": "BM ghi nhận quá trình chế biến syrup sản phẩm: Nước tăng lực vị cà phê Wake-up 247 - 16,000L",
     "id": "VHW/KTCN/GMP-001/BM12",
     "version": "16",
-    "uselink": "./static_form/NAU_SYRUP_247_16000.html",
+    "uselink": "./static_form/NAU_SYRUP_247_16000_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B273FC085-4EC7-4FC9-BBB7-34BBB3AD69C2%7D&file=Data_NAU_SYRUP_247_16000.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2029"
   },
@@ -49,7 +49,7 @@
     "name": "BM ghi nhận quá trình chế biến syrup sản phẩm: Nước giải khát hương chanh có gas Lemona khoáng chanh 32000L",
     "id": "VHC/KTCN/GMP-001/BM08",
     "version": "17",
-    "uselink": "./static_form/NAU_SYRUP_LEMONA_32000.html",
+    "uselink": "./static_form/NAU_SYRUP_LEMONA_32000_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BC9F43A4D-DE41-467E-AEDC-F8208CA71D57%7D&file=Data_NAU_SYRUP_LEMONA_64000.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2030"
   },
@@ -58,7 +58,7 @@
     "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước tăng lực Wake-up 247 - 32,000L",
     "id": "VHW/KTCN/HD-001/BM03",
     "version": "23",
-    "uselink": "./static_form/CAN_247_32000.html",
+    "uselink": "./static_form/CAN_247_32000_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B68181CCC-FE41-4C73-A89E-D556131E38B8%7D&file=Data_CAN_LEMONA.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2036"
   },
@@ -67,7 +67,7 @@
     "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước giải khát hương chanh có gas Lemona khoáng chanh - 64,000L",
     "id": "VHW/KTCN/HD-001/BM05",
     "version": "24",
-    "uselink": "./static_form/CAN_LEMONA_64000.html",
+    "uselink": "./static_form/CAN_LEMONA_64000_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE7E2DAC6-432E-4344-8925-CD53064D0548%7D&file=Data_CAN_LEMONA_64000.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2037"
   },
@@ -76,7 +76,7 @@
     "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước giải khát hương chanh có gas Lemona khoáng chanh - 32,000L",
     "id": "VHW/KTCN/HD-001/BM08",
     "version": "25",
-    "uselink": "./static_form/CAN_LEMONA_32000.html",
+    "uselink": "./static_form/CAN_LEMONA_32000_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B5F782504-886C-452F-B3C0-299CF2D45629%7D&file=Data_CAN_LEMONA_32000.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2038"
   },
@@ -85,7 +85,7 @@
     "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước tăng lực Wake-up 247 - 16,000L",
     "id": "VHW/KTCN/HD-001/BM12",
     "version": "26",
-    "uselink": "./static_form/CAN_247_16000.html",
+    "uselink": "./static_form/CAN_247_16000_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B28D4BD6F-A772-40C9-ABB0-3AE5DB8A3340%7D&file=Data_CAN_247_32000.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2039"
   },
@@ -94,7 +94,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CHLORINE CẤP LINE 1.2.3",
     "id": "VHW/SX/HD-03/BM01",
     "version": "33",
-    "uselink": "./static_form/3B_CHLORINE_CAPLINE123.html",
+    "uselink": "./static_form/3B_CHLORINE_CAPLINE123_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B710889FF-160E-4CB7-983A-DE2A77B53985%7D&file=Data_3B_CHLORINE_CAPL123.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2046"
   },
@@ -103,7 +103,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CHLORINE CẤP LINE 4,5",
     "id": "VHW/SX/HD-03/BM02",
     "version": "34",
-    "uselink": "./static_form/3B_CHLORINE_CAPLINE45.html",
+    "uselink": "./static_form/3B_CHLORINE_CAPLINE45_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B4C3C2113-D963-4A40-B19C-2AE4C0B4A67D%7D&file=Data_3B_CHLORINE_CAPL45.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2047"
   },
@@ -112,7 +112,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC ACID CITRIC CẤP LINE 1.2.3, 4",
     "id": "VHW/SX/HD-03/BM03",
     "version": "35",
-    "uselink": "./static_form/5B_CITRIC_CAPLINE1234.html",
+    "uselink": "./static_form/5B_CITRIC_CAPLINE1234_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BA77DCE1D-B6E4-42CA-AD88-BBEFDA575C13%7D&file=Data_5B_CITRIC_CAPL1234.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2048"
   },
@@ -121,7 +121,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC DIVOFLOW CẤP LINE 2",
     "id": "VHW/SX/HD-03/BM04",
     "version": "36",
-    "uselink": "./static_form/5B_DIVO_CAPLINE2.html",
+    "uselink": "./static_form/5B_DIVO_CAPLINE2_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B7D78433B-6AF7-4356-A289-C547446AA4C6%7D&file=Data_3B_CHLORINE_CAPL45.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2049"
   },
@@ -130,7 +130,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC NÓNG DIVOFLOW CẤP LINE 4,5",
     "id": "VHW/SX/HD-03/BM05",
     "version": "37",
-    "uselink": "./static_form/5B_DIVO_NONG_CAPLINE45.html",
+    "uselink": "./static_form/5B_DIVO_NONG_CAPLINE45_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B0BAEA29B-DBEE-405D-BF0A-9F868AFE8C58%7D&file=Data_5B_DIVO_NONG_CAPL45.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2050"
   },
@@ -139,7 +139,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC Cyclodextrin Cấp LINE 4",
     "id": "VHW/SX/HD-03/BM06",
     "version": "38",
-    "uselink": "./static_form/5B_CYCLO_CAPL4.html",
+    "uselink": "./static_form/5B_CYCLO_CAPL4_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B2CADF8B5-B968-41C1-A6BC-0C063F629D7A%7D&file=Data_5B_CYCLO_CAPL4.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2051"
   },
@@ -148,7 +148,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 7 BƯỚC Cyclodextrin CẤP LINE 4",
     "id": "VHW/SX/HD-03/BM07",
     "version": "39",
-    "uselink": "./static_form/7B_CYCLO_CAPL4.html",
+    "uselink": "./static_form/7B_CYCLO_CAPL4_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B0A212905-46CE-42A5-BF48-88BBE050C19D%7D&file=Data_5B_CYCLO_CAPL4.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2052"
   },
@@ -157,7 +157,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CHLORINE TẠI CHẾ BIẾN MỚI",
     "id": "VHW/SX/HD-03/BM08",
     "version": "40",
-    "uselink": "./static_form/3B_CHLORINE_TAI_CB_MOI.html",
+    "uselink": "./static_form/3B_CHLORINE_TAI_CB_MOI_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B8431ECF0-57E5-416F-A88C-E525EFDCB418%7D&file=Data_3B_CHLORINE_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2053"
   },
@@ -166,7 +166,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CLORINE TẠI CHẾ BIẾN CŨ",
     "id": "VHW/SX/HD-03/BM09",
     "version": "41",
-    "uselink": "./static_form/3B_CHLORINE_TAI_CB_CU.html",
+    "uselink": "./static_form/3B_CHLORINE_TAI_CB_CU_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B020E7115-1C97-4297-90B4-4600248966CA%7D&file=Data_3B_CHLORINE_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2054"
   },
@@ -175,7 +175,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC NÓNG DIVOFLOW TẠI CHẾ BIẾN MỚI",
     "id": "VHW/SX/HD-03/BM10",
     "version": "42",
-    "uselink": "./static_form/5B_DIVO_NONG_TAI_CB_MOI.html",
+    "uselink": "./static_form/5B_DIVO_NONG_TAI_CB_MOI_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BD8384361-27D5-42DA-9570-FFD5143F27D7%7D&file=Data_3B_CHLORINE_TAI_CB_CU.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2055"
   },
@@ -184,7 +184,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC NÓNG DIVOFLOW CHẾ BIẾN CŨ",
     "id": "VHW/SX/HD-03/BM11",
     "version": "43",
-    "uselink": "./static_form/5B_DIVO_NONG_TAI_CB_CU.html",
+    "uselink": "./static_form/5B_DIVO_NONG_TAI_CB_CU_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B6B358F52-41E2-44D7-8246-7A387863111A%7D&file=Data_5B_DIVO_NONG_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2056"
   },
@@ -193,7 +193,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC NÓNG TẠI CHẾ BIẾN MỚI ",
     "id": "VHW/SX/HD-03/BM12",
     "version": "44",
-    "uselink": "./static_form/3B_NONG_TAI_CB_MOI.html",
+    "uselink": "./static_form/3B_NONG_TAI_CB_MOI_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B2B265654-4EA6-4823-9E9C-9572404E654F%7D&file=Data_3B_NONG_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2057"
   },
@@ -202,7 +202,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC NÓNG CẤP LINE 4,5",
     "id": "VHW/SX/HD-03/BM13",
     "version": "45",
-    "uselink": "./static_form/3B_NONG_CAP_L45.html",
+    "uselink": "./static_form/3B_NONG_CAP_L45_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B3F6EA3F5-7C23-4149-82E8-4631964517FE%7D&file=Data_3B_NONG_CAP_L45.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2058"
   },
@@ -274,7 +274,7 @@
     "name": "Phiếu kiểm tra các bước khi thực hiện tái sinh làm mềm 220 số 1",
     "id": "VHC/KTCN-HD-007/BM01",
     "version": "54",
-    "uselink": "./static_form/TAI_SINH_LAM_MEM_220_SO_1.html",
+    "uselink": "./static_form/TAI_SINH_LAM_MEM_220_SO_1_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BA6A7B80D-3CCE-4D99-B379-C2A07D05382B%7D&file=Data_3B_CHLORINE_CAPL45.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2067"
   },
@@ -283,7 +283,7 @@
     "name": "Phiếu kiểm tra các bước khi thực hiện tái sinh làm mềm 220 số 2",
     "id": "VHC/KTCN-HD-007/BM02",
     "version": "55",
-    "uselink": "./static_form/TAI_SINH_LAM_MEM_220_SO_2.html",
+    "uselink": "./static_form/TAI_SINH_LAM_MEM_220_SO_2_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BF900A8E3-CC56-4039-8F87-6270C1B68193%7D&file=Data_TAI_SINH_LAM_MEM_220_SO_1.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2068"
   },
