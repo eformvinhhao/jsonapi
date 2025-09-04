@@ -103,7 +103,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CHLORINE CẤP LINE 1.2.3",
     "id": "VHW/SX/HD-03/BM01",
     "version": "33",
-    "uselink": "./static_form/3B_CHLORINE_CAPLINE123_file1.html",
+    "uselink": "./static_form/3B_CHLORINE_CAPL123_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B710889FF-160E-4CB7-983A-DE2A77B53985%7D&file=Data_3B_CHLORINE_CAPL123.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2046"
   },
@@ -112,7 +112,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CHLORINE CẤP LINE 4,5",
     "id": "VHW/SX/HD-03/BM02",
     "version": "34",
-    "uselink": "./static_form/3B_CHLORINE_CAPLINE45_file1.html",
+    "uselink": "./static_form/3B_CHLORINE_CAPL45_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B4C3C2113-D963-4A40-B19C-2AE4C0B4A67D%7D&file=Data_3B_CHLORINE_CAPL45.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2047"
   },
@@ -121,7 +121,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC ACID CITRIC CẤP LINE 1.2.3, 4",
     "id": "VHW/SX/HD-03/BM03",
     "version": "35",
-    "uselink": "./static_form/5B_CITRIC_CAPLINE1234_file1.html",
+    "uselink": "./static_form/5B_CITRIC_CAPL1234_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BA77DCE1D-B6E4-42CA-AD88-BBEFDA575C13%7D&file=Data_5B_CITRIC_CAPL1234.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2048"
   },
@@ -130,7 +130,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC DIVOFLOW CẤP LINE 2",
     "id": "VHW/SX/HD-03/BM04",
     "version": "36",
-    "uselink": "./static_form/5B_DIVO_CAPLINE2_file1.html",
+    "uselink": "./static_form/5B_DIVO_CAPL2_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B7D78433B-6AF7-4356-A289-C547446AA4C6%7D&file=Data_3B_CHLORINE_CAPL45.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2049"
   },
@@ -139,7 +139,7 @@
     "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC NÓNG DIVOFLOW CẤP LINE 4,5",
     "id": "VHW/SX/HD-03/BM05",
     "version": "37",
-    "uselink": "./static_form/5B_DIVO_NONG_CAPLINE45_file1.html",
+    "uselink": "./static_form/5B_DIVO_NONG_CAPL45_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B0BAEA29B-DBEE-405D-BF0A-9F868AFE8C58%7D&file=Data_5B_DIVO_NONG_CAPL45.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2050"
   },
