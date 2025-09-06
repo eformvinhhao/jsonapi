@@ -1,20 +1,20 @@
 [
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/hang_hoa_ra_cong.png",
     "name": "BM hàng hóa ra vào cổng",
     "id": "BM01-QĐ/AN-001",
-    "version": "12",
+    "version": "257",
     "uselink": "https://forms.office.com/r/e3hq6n9PQU",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BFB4E4121-8112-4A6C-85D2-415434C6F6C6%7D&file=Data_h%C3%A0ng_h%C3%B3a_ra_c%E1%BB%95ng.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
-    "date": "12-Jun-2025"
+    "date": "12-Jun-2270"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/tai_san_ra_cong.png",
     "name": "BM tài sản ra vào cổng",
     "id": "BM04-QLTSCĐ",
-    "version": "12",
+    "version": "258",
     "uselink": "https://forms.office.com/r/5U7EftSguZ",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B2B9018EF-611B-46CD-B06E-E79F2168A56D%7D&file=Data_t%C3%A0i_s%E1%BA%A3n_ra_c%E1%BB%95ng.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
-    "date": "12-Jun-2025"
+    "date": "12-Jun-2271"
   }
 ]
