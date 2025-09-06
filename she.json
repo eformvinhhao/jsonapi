@@ -1,65 +1,20 @@
 [
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Báo cáo sản xuất hàng ca Line Pet",
-      "id": "BM02.VH/TT-SX/01",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/aSKUxKgzqn?origin=lprLink",
-      "datalink": "https://forms.office.com/r/aSKUxKgzqn?origin=lprLink",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Biểu mẫu ghi nhận thông số vận hành máy Thủ Công",
-      "id": "VHC/SX-HD-001/BM01",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/UF636f1MF6?origin=lprLink",
-      "datalink": "https://forms.office.com/r/UF636f1MF6?origin=lprLink",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Biểu mẫu ghi nhận thông số vận hành máy thổi Chiaming 1",
-      "id": "VHC/SX-HD-002/BM01",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/4QUQfKVcF7?origin=lprLink",
-      "datalink": "https://forms.office.com/r/4QUQfKVcF7?origin=lprLink",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Biểu mẫu ghi nhận thông số vận hành máy thổi Chiaming 2",
-      "id": "VHC/SX-HD-002/BM02",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/YkWtBqG1Tr",
-      "datalink": "https://forms.office.com/r/YkWtBqG1Tr",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Biểu mẫu ghi nhận thông số vận hành máy Cấp chai Lanfranchi",
-      "id": "BM01.VH/HD-SX/28",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/WjN9P2wAUE?origin=lprLink",
-      "datalink": "https://forms.office.com/r/WjN9P2wAUE?origin=lprLink",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Biểu mẫu ghi nhận thông số vận hành máy cấp chai Line 1",
-      "id": "BM01.VH/HD-SX/11",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/jCA12k293Z?origin=lprLink",
-      "datalink": "https://forms.office.com/r/jCA12k293Z?origin=lprLink",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Nhật ký vận hành máy nén cao áp Fuji",
-      "id": "VHW/SX/HD-008.BM01",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/6iBcWZgfnY?origin=lprLink",
-      "datalink": "https://forms.office.com/r/6iBcWZgfnY?origin=lprLink",
-      "date": "12-Jun-2025"
-    }
-  ]
+  {
+    "image": "./img/bos.png",
+    "name": "Hệ thống quan sát hành vi (BOS)",
+    "id": "VHW/SHE/QĐ-003/BM01",
+    "version": "237",
+    "uselink": "https://forms.office.com/r/WaNseg4a3D",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B8C9A3BB1-EE30-4C6D-9D89-F4D7DAAAE00A%7D&file=Data_H%E1%BB%87%20th%E1%BB%91ng%20quan%20s%C3%A1t%20h%C3%A0nh%20vi%20BOS.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2250"
+  },
+  {
+    "image": "./img/visitor.png",
+    "name": "Khai báo sức khỏe nhân viên nhà thầu/khách",
+    "id": "VHW/SHE/QĐ-003/BM02",
+    "version": "259",
+    "uselink": "https://forms.office.com/r/1wAhUxVmWW",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BC88712D1-087E-4ECF-ADE4-949CA648D234%7D&file=VHW_SHE_Q%C4%90-003_BM02%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20KHAI%20B%C3%81O%20S%E1%BB%A8C%20KH%E1%BB%8EE%20NH%C3%82N%20VI%C3%8AN%20NH%C3%80%20TH%E1%BA%A6U_KH%C3%81CH%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=6e18051c-b0d1-42f4-b339-aa0912c50d34&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2272"
+  }
+]
