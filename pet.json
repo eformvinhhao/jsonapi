@@ -1,65 +1,92 @@
 [
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/pet.png",
     "name": "Báo cáo sản xuất hàng ca Line Pet",
     "id": "BM02.VH/TT-SX/01",
-    "version": "137",
+    "version": "179",
     "uselink": "https://forms.office.com/r/aSKUxKgzqn?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B6B91D99B-6CD3-4083-8D77-323A684EC280%7D&file=BM02.VH_TT-SX_01%20-%20B%C3%81O%20C%C3%81O%20S%E1%BA%A2N%20XU%E1%BA%A4T%20H%E1%BA%B0NG%20CA%20LINE%20PET%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=ba5d29ac-9637-4e1a-8a39-02ada678f3c9&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2150"
+    "date": "12-Jun-2192"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/pet.png",
     "name": "Biểu mẫu ghi nhận thông số vận hành máy Thủ Công",
     "id": "VHC/SX-HD-001/BM01",
-    "version": "175",
+    "version": "217",
     "uselink": "https://forms.office.com/r/UF636f1MF6?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B6B396E3F-A52F-4858-9468-1710A27920A8%7D&file=VHC-SX-HD-01_BM01%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20GHI%20NH%E1%BA%ACN%20%20TH%C3%94NG%20S%E1%BB%90%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20TH%E1%BB%A6%20C%C3%94NG%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=5c11b6b6-a277-4f02-8e87-e8f462d73db3&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2188"
+    "date": "12-Jun-2230"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/pet.png",
     "name": "Biểu mẫu ghi nhận thông số vận hành máy thổi Chiaming 1",
     "id": "VHC/SX-HD-002/BM01",
-    "version": "177",
+    "version": "219",
     "uselink": "https://forms.office.com/r/4QUQfKVcF7?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B4F46A38F-C953-4FEB-A737-7C058FBE8587%7D&file=VHC-SX-HD-002_BM01%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20GHI%20NH%E1%BA%ACN%20%20TH%C3%94NG%20S%E1%BB%90%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20CHIAMING%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=52707129-f0d7-4dbe-9f65-d5a5e88ff475&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2190"
+    "date": "12-Jun-2232"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/pet.png",
     "name": "Biểu mẫu ghi nhận thông số vận hành máy thổi Chiaming 2",
     "id": "VHC/SX-HD-002/BM02",
-    "version": "178",
+    "version": "220",
     "uselink": "https://forms.office.com/r/YkWtBqG1Tr",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BEBB0B668-9B19-40C5-9D85-35219E8E05F4%7D&file=VHC-SX-HD-002_BM02%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20GHI%20NH%E1%BA%ACN%20%20TH%C3%94NG%20S%E1%BB%90%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20CHIAMING%202%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=f423ba89-7626-4c52-a09e-b08a1a6a8312&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2191"
+    "date": "12-Jun-2233"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/pet.png",
     "name": "Biểu mẫu ghi nhận thông số vận hành máy Cấp chai Lanfranchi",
     "id": "BM01.VH/HD-SX/28",
-    "version": "181",
+    "version": "223",
     "uselink": "https://forms.office.com/r/WjN9P2wAUE?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B754FDBE1-6914-4987-A520-40FE68BF2B24%7D&file=BM01.VHW_HD-SX_28%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20GHI%20NH%E1%BA%ACN%20TH%C3%94NG%20S%E1%BB%90%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20LANFRANCHI%20LINE%20PET%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=023ef7f5-37e6-47ef-9242-0a329dd2e295&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2194"
+    "date": "12-Jun-2236"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/pet.png",
     "name": "Biểu mẫu ghi nhận thông số vận hành máy cấp chai Line 1",
     "id": "BM01.VH/HD-SX/11",
-    "version": "182",
+    "version": "224",
     "uselink": "https://forms.office.com/r/jCA12k293Z?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B22A17293-080D-43E3-BC7F-916C6E9C3B0A%7D&file=BM01.VH_HD-SX_11%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20GHI%20NH%E1%BA%ACN%20TH%C3%94NG%20S%E1%BB%90%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20C%E1%BA%A4P%20CHAI%20LINE%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=65b30b48-4012-4ce8-a96d-198a035b2626&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2195"
+    "date": "12-Jun-2237"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/may_nen.png",
     "name": "Nhật ký vận hành máy nén cao áp Fuji",
     "id": "VHW/SX/HD-008.BM01",
-    "version": "183",
+    "version": "225",
     "uselink": "https://forms.office.com/r/6iBcWZgfnY?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B5DB51AF0-A338-4C28-99F6-E4F799D8185C%7D&file=VHW_SX_HD-008.BM01%20-%20NH%E1%BA%ACT%20K%C3%9D%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20N%C3%89N%20CAO%20%C3%81P%20FUJI.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=5adb50f1-1da8-4ea1-ab27-513b134104ad&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2196"
+    "date": "12-Jun-2238"
+  },
+  {
+    "image": "./img/pet.png",
+    "name": "Biểu mẫu ghi nhận thông số vận hành máy Cấp chai Lanfranchi",
+    "id": "BM01.VH/HD-SX/28",
+    "version": "223",
+    "uselink": "https://forms.office.com/r/WjN9P2wAUE?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B754FDBE1-6914-4987-A520-40FE68BF2B24%7D&file=BM01.VHW_HD-SX_28%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20GHI%20NH%E1%BA%ACN%20TH%C3%94NG%20S%E1%BB%90%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20LANFRANCHI%20LINE%20PET%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=023ef7f5-37e6-47ef-9242-0a329dd2e295&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2236"
+  },
+  {
+    "image": "./img/pet.png",
+    "name": "Biểu mẫu ghi nhận thông số vận hành máy cấp chai Line 1",
+    "id": "BM01.VH/HD-SX/11",
+    "version": "224",
+    "uselink": "https://forms.office.com/r/jCA12k293Z?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B22A17293-080D-43E3-BC7F-916C6E9C3B0A%7D&file=BM01.VH_HD-SX_11%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20GHI%20NH%E1%BA%ACN%20TH%C3%94NG%20S%E1%BB%90%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20C%E1%BA%A4P%20CHAI%20LINE%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=65b30b48-4012-4ce8-a96d-198a035b2626&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2237"
+  },
+  {
+    "image": "./img/may_nen.png",
+    "name": "Nhật ký vận hành máy nén cao áp Fuji",
+    "id": "VHW/SX/HD-008.BM01",
+    "version": "225",
+    "uselink": "https://forms.office.com/r/6iBcWZgfnY?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B5DB51AF0-A338-4C28-99F6-E4F799D8185C%7D&file=VHW_SX_HD-008.BM01%20-%20NH%E1%BA%ACT%20K%C3%9D%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20N%C3%89N%20CAO%20%C3%81P%20FUJI.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=5adb50f1-1da8-4ea1-ab27-513b134104ad&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2238"
   }
 ]
