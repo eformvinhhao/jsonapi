@@ -1,317 +1,317 @@
 [
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/tank_che_bien.png",
     "name": "BM ghi nhận quá trình chế biến syrup sản phẩm: Nước tăng lực vị cà phê Wake-up 247 - 32,000L",
     "id": "VHW/KTCN/GMP-001/BM01",
-    "version": "12",
+    "version": "54",
     "uselink": "./static_form/NAU_SYRUP_247_32000_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BD388CF62-03D4-4324-BE6C-679138E3FE9D%7D&file=Data_NAU_SYRUP_LEMONA_32000.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2025"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM ghi nhận quá trình chế biến Syrup Compact Cafe mẻ 20K",
-    "id": "VHW/KTCN/GMP-001/BM02",
-    "version": "13",
-    "uselink": "./static_form/NAU_SYRUP_COMPACT_CA_PHE_20000_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B08747F64-C194-4CEA-87AD-880610127519%7D&file=Data_NAU_SYRUP_247_16000.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2026"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước tăng lực Compact Cafe mẻ 20K",
-    "id": "VHC/KTCN/HD-001/BM02",
-    "version": "14",
-    "uselink": "./static_form/CAN_COMPACT_CA_PHE_20000_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BAC8CECAD-76C8-41E3-9300-2931B4E73002%7D&file=Data_CAN_COMPACT_CA_PHE_20000.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2027"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM ghi nhận quá trình chế biến syrup sản phẩm: Nước giải khát hương chanh có gas Lemona khoáng chanh 64000L",
-    "id": "VHW/KTCN/GMP-001/BM03",
-    "version": "15",
-    "uselink": "./static_form/NAU_SYRUP_LEMONA_64000_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE7E2DAC6-432E-4344-8925-CD53064D0548%7D&file=Data_CAN_LEMONA_64000.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
-    "date": "12-Jun-2028"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM ghi nhận quá trình chế biến syrup sản phẩm: Nước tăng lực vị cà phê Wake-up 247 - 16,000L",
-    "id": "VHW/KTCN/GMP-001/BM12",
-    "version": "16",
-    "uselink": "./static_form/NAU_SYRUP_247_16000_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B273FC085-4EC7-4FC9-BBB7-34BBB3AD69C2%7D&file=Data_NAU_SYRUP_247_16000.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2029"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM ghi nhận quá trình chế biến syrup sản phẩm: Nước giải khát hương chanh có gas Lemona khoáng chanh 32000L",
-    "id": "VHC/KTCN/GMP-001/BM08",
-    "version": "17",
-    "uselink": "./static_form/NAU_SYRUP_LEMONA_32000_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BC9F43A4D-DE41-467E-AEDC-F8208CA71D57%7D&file=Data_NAU_SYRUP_LEMONA_64000.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2030"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM kiểm tra nhập nguyên vật liệu phụ gia",
-    "id": "VHW/KTCN/HD-001/BM01",
-    "version": "22",
-    "uselink": "./static_form/BM_KIEM_TRA_NVL_file1",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B53BF7E41-DF2D-45A1-B3DA-FFE95915498C%7D&file=Data_BM_KIEM_TRA_NHAP_NVL.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
-    "date": "12-Jun-2035"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước tăng lực Wake-up 247 - 32,000L",
-    "id": "VHW/KTCN/HD-001/BM03",
-    "version": "23",
-    "uselink": "./static_form/CAN_247_32000_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B68181CCC-FE41-4C73-A89E-D556131E38B8%7D&file=Data_CAN_LEMONA.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2036"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước giải khát hương chanh có gas Lemona khoáng chanh - 64,000L",
-    "id": "VHW/KTCN/HD-001/BM05",
-    "version": "24",
-    "uselink": "./static_form/CAN_LEMONA_64000_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE7E2DAC6-432E-4344-8925-CD53064D0548%7D&file=Data_CAN_LEMONA_64000.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2037"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước giải khát hương chanh có gas Lemona khoáng chanh - 32,000L",
-    "id": "VHW/KTCN/HD-001/BM08",
-    "version": "25",
-    "uselink": "./static_form/CAN_LEMONA_32000_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B5F782504-886C-452F-B3C0-299CF2D45629%7D&file=Data_CAN_LEMONA_32000.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2038"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước tăng lực Wake-up 247 - 16,000L",
-    "id": "VHW/KTCN/HD-001/BM12",
-    "version": "26",
-    "uselink": "./static_form/CAN_247_16000_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B28D4BD6F-A772-40C9-ABB0-3AE5DB8A3340%7D&file=Data_CAN_247_32000.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2039"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CHLORINE CẤP LINE 1.2.3",
-    "id": "VHW/SX/HD-03/BM01",
-    "version": "33",
-    "uselink": "./static_form/3B_CHLORINE_CAPL123_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B710889FF-160E-4CB7-983A-DE2A77B53985%7D&file=Data_3B_CHLORINE_CAPL123.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2046"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CHLORINE CẤP LINE 4,5",
-    "id": "VHW/SX/HD-03/BM02",
-    "version": "34",
-    "uselink": "./static_form/3B_CHLORINE_CAPL45_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B4C3C2113-D963-4A40-B19C-2AE4C0B4A67D%7D&file=Data_3B_CHLORINE_CAPL45.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2047"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC ACID CITRIC CẤP LINE 1.2.3, 4",
-    "id": "VHW/SX/HD-03/BM03",
-    "version": "35",
-    "uselink": "./static_form/5B_CITRIC_CAPL1234_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BA77DCE1D-B6E4-42CA-AD88-BBEFDA575C13%7D&file=Data_5B_CITRIC_CAPL1234.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2048"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC DIVOFLOW CẤP LINE 2",
-    "id": "VHW/SX/HD-03/BM04",
-    "version": "36",
-    "uselink": "./static_form/5B_DIVO_CAPL2_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B7D78433B-6AF7-4356-A289-C547446AA4C6%7D&file=Data_3B_CHLORINE_CAPL45.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2049"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC NÓNG DIVOFLOW CẤP LINE 4,5",
-    "id": "VHW/SX/HD-03/BM05",
-    "version": "37",
-    "uselink": "./static_form/5B_DIVO_NONG_CAPL45_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B0BAEA29B-DBEE-405D-BF0A-9F868AFE8C58%7D&file=Data_5B_DIVO_NONG_CAPL45.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2050"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC Cyclodextrin Cấp LINE 4",
-    "id": "VHW/SX/HD-03/BM06",
-    "version": "38",
-    "uselink": "./static_form/5B_CYCLO_CAPL4_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B2CADF8B5-B968-41C1-A6BC-0C063F629D7A%7D&file=Data_5B_CYCLO_CAPL4.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2051"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 7 BƯỚC Cyclodextrin CẤP LINE 4",
-    "id": "VHW/SX/HD-03/BM07",
-    "version": "39",
-    "uselink": "./static_form/7B_CYCLO_CAPL4_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B0A212905-46CE-42A5-BF48-88BBE050C19D%7D&file=Data_5B_CYCLO_CAPL4.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2052"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CHLORINE TẠI CHẾ BIẾN MỚI",
-    "id": "VHW/SX/HD-03/BM08",
-    "version": "40",
-    "uselink": "./static_form/3B_CHLORINE_TAI_CB_MOI_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B8431ECF0-57E5-416F-A88C-E525EFDCB418%7D&file=Data_3B_CHLORINE_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2053"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CLORINE TẠI CHẾ BIẾN CŨ",
-    "id": "VHW/SX/HD-03/BM09",
-    "version": "41",
-    "uselink": "./static_form/3B_CHLORINE_TAI_CB_CU_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B020E7115-1C97-4297-90B4-4600248966CA%7D&file=Data_3B_CHLORINE_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2054"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC NÓNG DIVOFLOW TẠI CHẾ BIẾN MỚI",
-    "id": "VHW/SX/HD-03/BM10",
-    "version": "42",
-    "uselink": "./static_form/5B_DIVO_NONG_TAI_CB_MOI_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BD8384361-27D5-42DA-9570-FFD5143F27D7%7D&file=Data_3B_CHLORINE_TAI_CB_CU.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2055"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC NÓNG DIVOFLOW CHẾ BIẾN CŨ",
-    "id": "VHW/SX/HD-03/BM11",
-    "version": "43",
-    "uselink": "./static_form/5B_DIVO_NONG_TAI_CB_CU_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B6B358F52-41E2-44D7-8246-7A387863111A%7D&file=Data_5B_DIVO_NONG_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2056"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC NÓNG TẠI CHẾ BIẾN MỚI ",
-    "id": "VHW/SX/HD-03/BM12",
-    "version": "44",
-    "uselink": "./static_form/3B_NONG_TAI_CB_MOI_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B2B265654-4EA6-4823-9E9C-9572404E654F%7D&file=Data_3B_NONG_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2057"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC NÓNG CẤP LINE 4,5",
-    "id": "VHW/SX/HD-03/BM13",
-    "version": "45",
-    "uselink": "./static_form/3B_NONG_CAP_L45_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B3F6EA3F5-7C23-4149-82E8-4631964517FE%7D&file=Data_3B_NONG_CAP_L45.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2058"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "Biểu mẫu thực hiện công việc pha hóa chất NLN",
-    "id": "VHW/KTCN/HD-009/BM01",
-    "version": "46",
-    "uselink": "https://forms.office.com/r/yAhn3zjZVE",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B585FCB92-19E1-4691-BC22-65B2DF9E7EC5%7D&file=VHW_KTCN_HD-009_BM01-BI%E1%BB%82U%20M%E1%BA%AAU%20TH%E1%BB%B0C%20HI%E1%BB%86N%20C%C3%94NG%20VI%E1%BB%86C%20PHA%20H%C3%93A%20CH%E1%BA%A4T%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=707514d1-6785-42c1-b68e-cd887016dc56&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2059"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM thực hiện công việc pha muối",
-    "id": "VHW/KTCN/HD-010/BM01",
-    "version": "47",
-    "uselink": "https://forms.office.com/r/Zxcve86h5g",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE5E6A719-D744-4475-8EA4-B9482F07423D%7D&file=Data_H%C6%B0%C6%A1%CC%81ng%20d%C3%A2%CC%83n%20pha%20mu%C3%B4%CC%81i.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
-    "date": "12-Jun-2060"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM theo dõi quá trình tái sinh cột than trong XLN",
-    "id": "BM01.VHW/KTCN/HD-005 ",
-    "version": "48",
-    "uselink": "https://forms.office.com/r/6N3BCVP8MT",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BFE687D6D-0381-4F00-ABD8-0FC52D4EE04B%7D&file=BM01.VHW_KTCN_HD-005%20BM%20THEO%20D%C3%95I%20QU%C3%81%20TR%C3%8CNH%20T%C3%81I%20SINH%20C%E1%BB%98T%20THAN%20TRONG%20XNL.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=746ba86b-f414-4956-9df5-e1cca39d878f&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2061"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM theo dõi quá trình vệ sinh bồn chứa, lọc khu xử lý nước",
-    "id": "VHW/KTCN/HD-011/BM01",
-    "version": "49",
-    "uselink": "https://forms.office.com/r/0aHashJDqb?origin=lprLink",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B8E6EF476-5F30-4DB1-9E09-68ADCB638D74%7D&file=VHC_KTCN-HD-011_BM01-BM%20THEO%20D%C3%95I%20QU%C3%81%20TR%C3%8CNH%20V%E1%BB%86%20SINH%20B%E1%BB%92N%20CH%E1%BB%A8A%20V%C3%80%20L%C3%95I%20L%E1%BB%8CC%20KHU%20XLN%203.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=346d898c-f568-40d9-82ee-a5b6f33502cb&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2062"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM theo dõi vệ sinh lọc tại khu vực Chế Biến",
-    "id": "VHW/KTCN/HD-004/BM01",
-    "version": "50",
-    "uselink": "https://forms.office.com/r/eXCrvwzbsg?origin=lprLink",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BCBA89FE1-E438-47D3-BAE5-D70205818B5C%7D&file=VHW_KTCN_HD-004_BM01%20-%20BM%20GHI%20NH%E1%BA%ACN%20QT%20V%E1%BB%86%20SINH%20L%E1%BB%8CC%20KHU%20CH%E1%BA%BE%20BI%E1%BA%BEN.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=d5987059-a963-4e16-97f9-a28664e5773d&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2063"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "Biểu mẫu theo dõi hoạt động lọc final Syrup",
-    "id": "BM01.VH/HACCP-QLCL/15",
-    "version": "52",
-    "uselink": "https://forms.office.com/r/16inF8hZz1?origin=lprLink",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BF3154FE8-15E3-4D3F-A178-3BA32BF31AE1%7D&file=BM01.VH_HACCP-QLCL_15-BM%20THEO%20D%C3%95I%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20L%E1%BB%8CC%20SYRUP%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=1d79f5e3-da64-4e53-8dbc-e3cb408da42a&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2065"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "Centerline cụm RO375",
-    "id": "BM01.VH/HD-SX/24",
-    "version": "53",
-    "uselink": "https://forms.office.com/r/g9vBMppLxH?origin=lprLink",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B78158839-7282-43A2-A13D-05E5CA28F5F4%7D&file=VHC_SX-HD-024_BM01%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20GHI%20NH%E1%BA%ACN%20CENTERLINE%20C%E1%BB%A4M%20RO375.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=98be359f-8d9c-44c8-aa1b-fb01b8489e9c&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
-    "date": "12-Jun-2066"
-  },
-  {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "Phiếu kiểm tra các bước khi thực hiện tái sinh làm mềm 220 số 1",
-    "id": "VHC/KTCN-HD-007/BM01",
-    "version": "54",
-    "uselink": "./static_form/TAI_SINH_LAM_MEM_220_SO_1_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BA6A7B80D-3CCE-4D99-B379-C2A07D05382B%7D&file=Data_3B_CHLORINE_CAPL45.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2067"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "Phiếu kiểm tra các bước khi thực hiện tái sinh làm mềm 220 số 2",
-    "id": "VHC/KTCN-HD-007/BM02",
+    "image": "./img/tank_che_bien.png",
+    "name": "BM ghi nhận quá trình chế biến Syrup Compact Cafe mẻ 20K",
+    "id": "VHW/KTCN/GMP-001/BM02",
     "version": "55",
-    "uselink": "./static_form/TAI_SINH_LAM_MEM_220_SO_2_file1.html",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BF900A8E3-CC56-4039-8F87-6270C1B68193%7D&file=Data_TAI_SINH_LAM_MEM_220_SO_1.xlsx&action=default&mobileredirect=true",
+    "uselink": "./static_form/NAU_SYRUP_COMPACT_CA_PHE_20000_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B08747F64-C194-4CEA-87AD-880610127519%7D&file=Data_NAU_SYRUP_247_16000.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2068"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
-    "name": "BM GHI NHẬN THÔNG SỐ VẬN HÀNH XỬ LÝ NƯỚC TDS1900",
-    "id": "VHC/SX-HD-034/BM 01",
+    "image": "./img/can.png",
+    "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước tăng lực Compact Cafe mẻ 20K",
+    "id": "VHC/KTCN/HD-001/BM02",
+    "version": "56",
+    "uselink": "./static_form/CAN_COMPACT_CA_PHE_20000_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BAC8CECAD-76C8-41E3-9300-2931B4E73002%7D&file=Data_CAN_COMPACT_CA_PHE_20000.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2069"
+  },
+  {
+    "image": "./img/tank_che_bien.png",
+    "name": "BM ghi nhận quá trình chế biến syrup sản phẩm: Nước giải khát hương chanh có gas Lemona khoáng chanh 64000L",
+    "id": "VHW/KTCN/GMP-001/BM03",
+    "version": "57",
+    "uselink": "./static_form/NAU_SYRUP_LEMONA_64000_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE7E2DAC6-432E-4344-8925-CD53064D0548%7D&file=Data_CAN_LEMONA_64000.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
+    "date": "12-Jun-2070"
+  },
+  {
+    "image": "./img/tank_che_bien.png",
+    "name": "BM ghi nhận quá trình chế biến syrup sản phẩm: Nước tăng lực vị cà phê Wake-up 247 - 16,000L",
+    "id": "VHW/KTCN/GMP-001/BM12",
     "version": "58",
-    "uselink": "https://forms.office.com/r/Wa9m6ZbjSj",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BD640D5D9-79A5-4BD5-B0B1-A3E162C4F4C7%7D&file=VHC_SX-HD-034_BM%2001%20-%20BM%20CENTERLINE%20C%E1%BB%A4M%20X%E1%BB%AC%20L%C3%9D%20N%C6%AF%E1%BB%9AC%20TDS%2080-375-1900%203.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=9457800b-74e2-4efa-9bfd-23c8b89c555e&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "uselink": "./static_form/NAU_SYRUP_247_16000_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B273FC085-4EC7-4FC9-BBB7-34BBB3AD69C2%7D&file=Data_NAU_SYRUP_247_16000.xlsx&action=default&mobileredirect=true",
     "date": "12-Jun-2071"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/tank_che_bien.png",
+    "name": "BM ghi nhận quá trình chế biến syrup sản phẩm: Nước giải khát hương chanh có gas Lemona khoáng chanh 32000L",
+    "id": "VHC/KTCN/GMP-001/BM08",
+    "version": "59",
+    "uselink": "./static_form/NAU_SYRUP_LEMONA_32000_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BC9F43A4D-DE41-467E-AEDC-F8208CA71D57%7D&file=Data_NAU_SYRUP_LEMONA_64000.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2072"
+  },
+  {
+    "image": "./img/can.png",
+    "name": "BM kiểm tra nhập nguyên vật liệu phụ gia",
+    "id": "VHW/KTCN/HD-001/BM01",
+    "version": "64",
+    "uselink": "./static_form/BM_KIEM_TRA_NVL_file1",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B53BF7E41-DF2D-45A1-B3DA-FFE95915498C%7D&file=Data_BM_KIEM_TRA_NHAP_NVL.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2077"
+  },
+  {
+    "image": "./img/can.png",
+    "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước tăng lực Wake-up 247 - 32,000L",
+    "id": "VHW/KTCN/HD-001/BM03",
+    "version": "65",
+    "uselink": "./static_form/CAN_247_32000_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B68181CCC-FE41-4C73-A89E-D556131E38B8%7D&file=Data_CAN_LEMONA.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2078"
+  },
+  {
+    "image": "./img/can.png",
+    "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước giải khát hương chanh có gas Lemona khoáng chanh - 64,000L",
+    "id": "VHW/KTCN/HD-001/BM05",
+    "version": "66",
+    "uselink": "./static_form/CAN_LEMONA_64000_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE7E2DAC6-432E-4344-8925-CD53064D0548%7D&file=Data_CAN_LEMONA_64000.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2079"
+  },
+  {
+    "image": "./img/can.png",
+    "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước giải khát hương chanh có gas Lemona khoáng chanh - 32,000L",
+    "id": "VHW/KTCN/HD-001/BM08",
+    "version": "67",
+    "uselink": "./static_form/CAN_LEMONA_32000_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B5F782504-886C-452F-B3C0-299CF2D45629%7D&file=Data_CAN_LEMONA_32000.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2080"
+  },
+  {
+    "image": "./img/can.png",
+    "name": "BM ghi nhận quá trình kiểm tra batch/lot, định lượng, giao nhận NVL phụ gia nước tăng lực Wake-up 247 - 16,000L",
+    "id": "VHW/KTCN/HD-001/BM12",
+    "version": "68",
+    "uselink": "./static_form/CAN_247_16000_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B28D4BD6F-A772-40C9-ABB0-3AE5DB8A3340%7D&file=Data_CAN_247_32000.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2081"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CHLORINE CẤP LINE 1.2.3",
+    "id": "VHW/SX/HD-03/BM01",
+    "version": "75",
+    "uselink": "./static_form/3B_CHLORINE_CAPL123_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B710889FF-160E-4CB7-983A-DE2A77B53985%7D&file=Data_3B_CHLORINE_CAPL123.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2088"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CHLORINE CẤP LINE 4,5",
+    "id": "VHW/SX/HD-03/BM02",
+    "version": "76",
+    "uselink": "./static_form/3B_CHLORINE_CAPL45_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B4C3C2113-D963-4A40-B19C-2AE4C0B4A67D%7D&file=Data_3B_CHLORINE_CAPL45.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2089"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC ACID CITRIC CẤP LINE 1.2.3, 4",
+    "id": "VHW/SX/HD-03/BM03",
+    "version": "77",
+    "uselink": "./static_form/5B_CITRIC_CAPL1234_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BA77DCE1D-B6E4-42CA-AD88-BBEFDA575C13%7D&file=Data_5B_CITRIC_CAPL1234.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2090"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC DIVOFLOW CẤP LINE 2",
+    "id": "VHW/SX/HD-03/BM04",
+    "version": "78",
+    "uselink": "./static_form/5B_DIVO_CAPL2_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B7D78433B-6AF7-4356-A289-C547446AA4C6%7D&file=Data_3B_CHLORINE_CAPL45.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2091"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC NÓNG DIVOFLOW CẤP LINE 4,5",
+    "id": "VHW/SX/HD-03/BM05",
+    "version": "79",
+    "uselink": "./static_form/5B_DIVO_NONG_CAPL45_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B0BAEA29B-DBEE-405D-BF0A-9F868AFE8C58%7D&file=Data_5B_DIVO_NONG_CAPL45.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2092"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC Cyclodextrin Cấp LINE 4",
+    "id": "VHW/SX/HD-03/BM06",
+    "version": "80",
+    "uselink": "./static_form/5B_CYCLO_CAPL4_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B2CADF8B5-B968-41C1-A6BC-0C063F629D7A%7D&file=Data_5B_CYCLO_CAPL4.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2093"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 7 BƯỚC Cyclodextrin CẤP LINE 4",
+    "id": "VHW/SX/HD-03/BM07",
+    "version": "81",
+    "uselink": "./static_form/7B_CYCLO_CAPL4_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B0A212905-46CE-42A5-BF48-88BBE050C19D%7D&file=Data_5B_CYCLO_CAPL4.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2094"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CHLORINE TẠI CHẾ BIẾN MỚI",
+    "id": "VHW/SX/HD-03/BM08",
+    "version": "82",
+    "uselink": "./static_form/3B_CHLORINE_TAI_CB_MOI_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B8431ECF0-57E5-416F-A88C-E525EFDCB418%7D&file=Data_3B_CHLORINE_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2095"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC CLORINE TẠI CHẾ BIẾN CŨ",
+    "id": "VHW/SX/HD-03/BM09",
+    "version": "83",
+    "uselink": "./static_form/3B_CHLORINE_TAI_CB_CU_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B020E7115-1C97-4297-90B4-4600248966CA%7D&file=Data_3B_CHLORINE_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2096"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC NÓNG DIVOFLOW TẠI CHẾ BIẾN MỚI",
+    "id": "VHW/SX/HD-03/BM10",
+    "version": "84",
+    "uselink": "./static_form/5B_DIVO_NONG_TAI_CB_MOI_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BD8384361-27D5-42DA-9570-FFD5143F27D7%7D&file=Data_3B_CHLORINE_TAI_CB_CU.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2097"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 5 BƯỚC NÓNG DIVOFLOW CHẾ BIẾN CŨ",
+    "id": "VHW/SX/HD-03/BM11",
+    "version": "85",
+    "uselink": "./static_form/5B_DIVO_NONG_TAI_CB_CU_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B6B358F52-41E2-44D7-8246-7A387863111A%7D&file=Data_5B_DIVO_NONG_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2098"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC NÓNG TẠI CHẾ BIẾN MỚI ",
+    "id": "VHW/SX/HD-03/BM12",
+    "version": "86",
+    "uselink": "./static_form/3B_NONG_TAI_CB_MOI_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B2B265654-4EA6-4823-9E9C-9572404E654F%7D&file=Data_3B_NONG_TAI_CB_MOI.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2099"
+  },
+  {
+    "image": "./img/valve.png",
+    "name": "BIỄU MẪU GHI NHẬN QUÁ TRÌNH CIP 3 BƯỚC NÓNG CẤP LINE 4,5",
+    "id": "VHW/SX/HD-03/BM13",
+    "version": "87",
+    "uselink": "./static_form/3B_NONG_CAP_L45_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B3F6EA3F5-7C23-4149-82E8-4631964517FE%7D&file=Data_3B_NONG_CAP_L45.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2100"
+  },
+  {
+    "image": "./img/hoa_chat.png",
+    "name": "Biểu mẫu thực hiện công việc pha hóa chất NLN",
+    "id": "VHW/KTCN/HD-009/BM01",
+    "version": "88",
+    "uselink": "https://forms.office.com/r/yAhn3zjZVE",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B585FCB92-19E1-4691-BC22-65B2DF9E7EC5%7D&file=VHW_KTCN_HD-009_BM01-BI%E1%BB%82U%20M%E1%BA%AAU%20TH%E1%BB%B0C%20HI%E1%BB%86N%20C%C3%94NG%20VI%E1%BB%86C%20PHA%20H%C3%93A%20CH%E1%BA%A4T%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=707514d1-6785-42c1-b68e-cd887016dc56&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2101"
+  },
+  {
+    "image": "./img/hoa_chat.png",
+    "name": "BM thực hiện công việc pha muối",
+    "id": "VHW/KTCN/HD-010/BM01",
+    "version": "89",
+    "uselink": "https://forms.office.com/r/Zxcve86h5g",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE5E6A719-D744-4475-8EA4-B9482F07423D%7D&file=Data_H%C6%B0%C6%A1%CC%81ng%20d%C3%A2%CC%83n%20pha%20mu%C3%B4%CC%81i.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2102"
+  },
+  {
+    "image": "./img/gac.png",
+    "name": "BM theo dõi quá trình tái sinh cột than trong XLN",
+    "id": "BM01.VHW/KTCN/HD-005 ",
+    "version": "90",
+    "uselink": "https://forms.office.com/r/6N3BCVP8MT",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BFE687D6D-0381-4F00-ABD8-0FC52D4EE04B%7D&file=BM01.VHW_KTCN_HD-005%20BM%20THEO%20D%C3%95I%20QU%C3%81%20TR%C3%8CNH%20T%C3%81I%20SINH%20C%E1%BB%98T%20THAN%20TRONG%20XNL.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=746ba86b-f414-4956-9df5-e1cca39d878f&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2103"
+  },
+  {
+    "image": "./img/loc_nuoc.png",
+    "name": "BM theo dõi quá trình vệ sinh bồn chứa, lọc khu xử lý nước",
+    "id": "VHW/KTCN/HD-011/BM01",
+    "version": "91",
+    "uselink": "https://forms.office.com/r/0aHashJDqb?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B8E6EF476-5F30-4DB1-9E09-68ADCB638D74%7D&file=VHC_KTCN-HD-011_BM01-BM%20THEO%20D%C3%95I%20QU%C3%81%20TR%C3%8CNH%20V%E1%BB%86%20SINH%20B%E1%BB%92N%20CH%E1%BB%A8A%20V%C3%80%20L%C3%95I%20L%E1%BB%8CC%20KHU%20XLN%203.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=346d898c-f568-40d9-82ee-a5b6f33502cb&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2104"
+  },
+  {
+    "image": "./img/loc_nuoc.png",
+    "name": "BM theo dõi vệ sinh lọc tại khu vực Chế Biến",
+    "id": "VHW/KTCN/HD-004/BM01",
+    "version": "92",
+    "uselink": "https://forms.office.com/r/eXCrvwzbsg?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BCBA89FE1-E438-47D3-BAE5-D70205818B5C%7D&file=VHW_KTCN_HD-004_BM01%20-%20BM%20GHI%20NH%E1%BA%ACN%20QT%20V%E1%BB%86%20SINH%20L%E1%BB%8CC%20KHU%20CH%E1%BA%BE%20BI%E1%BA%BEN.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=d5987059-a963-4e16-97f9-a28664e5773d&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2105"
+  },
+  {
+    "image": "./img/loc_nuoc.png",
+    "name": "Biểu mẫu theo dõi hoạt động lọc final Syrup",
+    "id": "BM01.VH/HACCP-QLCL/15",
+    "version": "94",
+    "uselink": "https://forms.office.com/r/16inF8hZz1?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BF3154FE8-15E3-4D3F-A178-3BA32BF31AE1%7D&file=BM01.VH_HACCP-QLCL_15-BM%20THEO%20D%C3%95I%20HO%E1%BA%A0T%20%C4%90%E1%BB%98NG%20L%E1%BB%8CC%20SYRUP%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=1d79f5e3-da64-4e53-8dbc-e3cb408da42a&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2107"
+  },
+  {
+    "image": "./img/centerline.png",
+    "name": "Centerline cụm RO375",
+    "id": "BM01.VH/HD-SX/24",
+    "version": "95",
+    "uselink": "https://forms.office.com/r/g9vBMppLxH?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B78158839-7282-43A2-A13D-05E5CA28F5F4%7D&file=VHC_SX-HD-024_BM01%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20GHI%20NH%E1%BA%ACN%20CENTERLINE%20C%E1%BB%A4M%20RO375.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=98be359f-8d9c-44c8-aa1b-fb01b8489e9c&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2108"
+  },
+  {
+    "image": "./img/softener.png",
+    "name": "Phiếu kiểm tra các bước khi thực hiện tái sinh làm mềm 220 số 1",
+    "id": "VHC/KTCN-HD-007/BM01",
+    "version": "96",
+    "uselink": "./static_form/TAI_SINH_LAM_MEM_220_SO_1_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BA6A7B80D-3CCE-4D99-B379-C2A07D05382B%7D&file=Data_3B_CHLORINE_CAPL45.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2109"
+  },
+  {
+    "image": "./img/softener.png",
+    "name": "Phiếu kiểm tra các bước khi thực hiện tái sinh làm mềm 220 số 2",
+    "id": "VHC/KTCN-HD-007/BM02",
+    "version": "97",
+    "uselink": "./static_form/TAI_SINH_LAM_MEM_220_SO_2_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BF900A8E3-CC56-4039-8F87-6270C1B68193%7D&file=Data_TAI_SINH_LAM_MEM_220_SO_1.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2110"
+  },
+  {
+    "image": "./img/nuoc.png",
+    "name": "BM GHI NHẬN THÔNG SỐ VẬN HÀNH XỬ LÝ NƯỚC TDS1900",
+    "id": "VHC/SX-HD-034/BM 01",
+    "version": "100",
+    "uselink": "https://forms.office.com/r/Wa9m6ZbjSj",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BD640D5D9-79A5-4BD5-B0B1-A3E162C4F4C7%7D&file=VHC_SX-HD-034_BM%2001%20-%20BM%20CENTERLINE%20C%E1%BB%A4M%20X%E1%BB%AC%20L%C3%9D%20N%C6%AF%E1%BB%9AC%20TDS%2080-375-1900%203.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=9457800b-74e2-4efa-9bfd-23c8b89c555e&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2113"
+  },
+  {
+    "image": "./img/nuoc.png",
     "name": "THÔNG SỐ VẬN HÀNH XỬ LÝ NƯỚC TDS 250",
     "id": "BM01.VH/HD-SX/40",
-    "version": "59",
+    "version": "101",
     "uselink": "https://forms.office.com/r/g9WALmUXJR",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE867BAE6-FE17-4F4D-B396-DEE9DBEC06B6%7D&file=Data_centerline_250.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
-    "date": "12-Jun-2072"
+    "date": "12-Jun-2114"
   }
 ]
