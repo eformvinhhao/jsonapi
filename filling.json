@@ -28,6 +28,15 @@
   },
   {
     "image": "./img/CIP_Expert-icon.jpg",
+    "name": "Báo cáo sự cố trong ca",
+    "id": "VHW/SX/TT-001/BM03",
+    "version": "131",
+    "uselink": "./static_form/BM_GHI_NHAN_DUNG_MAY_TRONG_CA_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B9B643E23-14D3-49A0-A4B1-312F44E49B75%7D&file=Data_BM_DUNG_MAY_TRONG_CA.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
+    "date": "12-Jun-2144"
+  },
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
     "name": "BM theo dõi vận hành máy chiết Line 1",
     "id": "BM01.VH/HD-SX/16",
     "version": "132",
@@ -61,6 +70,15 @@
     "uselink": "https://forms.office.com/r/dv14CVUPby?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B936486D4-9CF2-496D-85DC-3C00C2D46A5B%7D&file=VHW_SX-HD-017_BM01%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20GHI%20NH%E1%BA%ACN%20TH%C3%94NG%20S%E1%BB%90%20V%E1%BA%ACN%20H%C3%80NH%20C%E1%BB%A4M%20CHI%E1%BA%BET%20R%C3%93T%20LINE%202.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=908d89af-45be-4e47-a1ea-b8d8df344473&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
     "date": "12-Jun-2148"
+  },
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
+    "name": "Biểu mẫu ghi nhận số lượng bán thành phẩm hỏng line",
+    "id": "BM04.VH/TT-SX/01",
+    "version": "138",
+    "uselink": "./static_form/BM_GHI_NHAN_BTP_HU_HONG_file1html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B859FD6CC-3871-4E84-88A8-8E5F2DBCD5BC%7D&file=BM_GHI_NHAN_BTP_HU_HONG.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2151"
   },
   {
     "image": "./img/CIP_Expert-icon.jpg",
@@ -322,6 +340,15 @@
     "uselink": "https://forms.office.com/r/GqU6sjHpnW?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B007D4798-668B-4552-A086-05640DE1A1CB%7D&file=VHC_SX-HD-048_BM01%20-%20BI%E1%BB%82U%20M%E1%BA%AAU%20GHI%20NH%E1%BA%ACN%20TH%C3%94NG%20S%E1%BB%90%20V%E1%BA%ACN%20H%C3%80NH%20C%E1%BB%A4M%20CHI%E1%BA%BET%20R%C3%93T%20LINE%205.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=8a1cc17c-a4b1-4e9e-adec-949812831553&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
     "date": "12-Jun-2184"
+  },
+  {
+    "image": "./img/CIP_Expert-icon.jpg",
+    "name": "Biểu mẫu ghi nhận quá trình CIP 5 bước Divoflow Line 5",
+    "id": "VHW/SX/HD-048/BM02",
+    "version": "172",
+    "uselink": "./static_form/5B_DIVO_L5_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B52DDA389-7574-41D9-82D8-5902CA939D00%7D&file=5B_Divoflow_Line5.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2185"
   },
   {
     "image": "./img/CIP_Expert-icon.jpg",
