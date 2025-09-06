@@ -1,38 +1,38 @@
 [
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/qc.png",
     "name": "BM ghi nhận kết quả online still",
     "id": "Submit tao QLone",
-    "version": "224",
+    "version": "266",
     "uselink": "./static_form/BM_KET_QUA_ONLINE_STILL_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B1F00AE6B-257E-47B7-AC71-272304E4A69B%7D&file=KETQUA_ONLINE_STILL.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2237"
+    "date": "12-Jun-2279"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/qc.png",
     "name": "BM ghi nhận kết quả online Line 3",
     "id": "Submit tao QLone",
-    "version": "225",
+    "version": "267",
     "uselink": "./static_form/BM_KET_QUA_ONLINE_LINE3_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BF089CB54-E4BF-4B6F-AB68-1439E257A61B%7D&file=KETQUA_ONLINE_LINE3.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2238"
+    "date": "12-Jun-2280"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/qc.png",
     "name": "BM ghi nhận kết quả online XLN",
     "id": "Submit tao QLone",
-    "version": "226",
+    "version": "268",
     "uselink": "./static_form/BM_KET_QUA_ONLINE_XLN_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B1AD87CBD-963C-4767-924F-4D2994EC65EA%7D&file=KETQUA_ONLINE_XLN.xlsx&action=default&mobileredirect=true",
-    "date": "12-Jun-2239"
+    "date": "12-Jun-2281"
   },
   {
-    "image": "./img/CIP_Expert-icon.jpg",
+    "image": "./img/qc.png",
     "name": "BM ghi nhận kết quả online PET",
     "id": "Submit tao QLone",
-    "version": "227",
+    "version": "269",
     "uselink": "./static_form/BM_KET_QUA_ONLINE_PET_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B8F79DEBF-42C3-456D-B66E-1C03CAD81CBF%7D&file=KETQUA_ONLINE_PET.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
-    "date": "12-Jun-2240"
+    "date": "12-Jun-2282"
   }
 ]
