@@ -1,65 +1,74 @@
 [
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Báo cáo sản xuất hàng ca Line Pet",
-      "id": "BM02.VH/TT-SX/01",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/aSKUxKgzqn?origin=lprLink",
-      "datalink": "https://forms.office.com/r/aSKUxKgzqn?origin=lprLink",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Biểu mẫu ghi nhận thông số vận hành máy Thủ Công",
-      "id": "VHC/SX-HD-001/BM01",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/UF636f1MF6?origin=lprLink",
-      "datalink": "https://forms.office.com/r/UF636f1MF6?origin=lprLink",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Biểu mẫu ghi nhận thông số vận hành máy thổi Chiaming 1",
-      "id": "VHC/SX-HD-002/BM01",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/4QUQfKVcF7?origin=lprLink",
-      "datalink": "https://forms.office.com/r/4QUQfKVcF7?origin=lprLink",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Biểu mẫu ghi nhận thông số vận hành máy thổi Chiaming 2",
-      "id": "VHC/SX-HD-002/BM02",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/YkWtBqG1Tr",
-      "datalink": "https://forms.office.com/r/YkWtBqG1Tr",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Biểu mẫu ghi nhận thông số vận hành máy Cấp chai Lanfranchi",
-      "id": "BM01.VH/HD-SX/28",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/WjN9P2wAUE?origin=lprLink",
-      "datalink": "https://forms.office.com/r/WjN9P2wAUE?origin=lprLink",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Biểu mẫu ghi nhận thông số vận hành máy cấp chai Line 1",
-      "id": "BM01.VH/HD-SX/11",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/jCA12k293Z?origin=lprLink",
-      "datalink": "https://forms.office.com/r/jCA12k293Z?origin=lprLink",
-      "date": "12-Jun-2025"
-    },
-    {
-      "image": "./img/CIP_Expert-icon.jpg",
-      "name": "Nhật ký vận hành máy nén cao áp Fuji",
-      "id": "VHW/SX/HD-008.BM01",
-      "version": "12",
-      "uselink": "https://forms.office.com/r/6iBcWZgfnY?origin=lprLink",
-      "datalink": "https://forms.office.com/r/6iBcWZgfnY?origin=lprLink",
-      "date": "12-Jun-2025"
-    }
-  ]
+  {
+    "image": "./img/thung_rac.png",
+    "name": "Biểu mẫu theo dõi thu gom và vệ sinh chất thải",
+    "id": "VHW/ATTP/SSOP-008/BM01",
+    "version": "108",
+    "uselink": "https://forms.office.com/r/MD3kRQKMfg",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B3C3C2440-1016-4A02-B4F7-DD17BB7C7F17%7D&file=VHW_ATTP_SSOP-008_BM01%20-%20%20BI%E1%BB%82U%20M%E1%BA%AAU%20THEO%20D%C3%95I%20THU%20GOM%20V%C3%80%20V%E1%BB%86%20SINH%20CH%E1%BA%A4T%20TH%E1%BA%A2I.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=9e08ae17-bcb1-4f79-81cc-b7ac759c2319&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2121"
+  },
+  {
+    "image": "./img/ve_sinh.png",
+    "name": "Điều kiện vệ sinh khu vực Sản xuất",
+    "id": "VHW/ATTP/SSOP-003/BM01",
+    "version": "111",
+    "uselink": "https://forms.office.com/r/K1mkkD3ia5?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BC2E6B962-8F9C-4479-95AF-948524775335%7D&file=Data-%C2%A0%C4%90i%E1%BB%81u%20ki%E1%BB%87n%20v%E1%BB%87%20sinh%20khu%20v%E1%BB%B1c%20S%E1%BA%A3n%20xu%E1%BA%A5t%201.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
+    "date": "12-Jun-2124"
+  },
+  {
+    "image": "./img/ve_sinh.png",
+    "name": "Phiếu kiểm tra vệ sinh hằng ngày",
+    "id": "VHW/ATTP/SSOP-003/BM02",
+    "version": "112",
+    "uselink": "https://forms.office.com/r/0yDZ0mygav",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B1BE8AC22-85AF-4017-8478-2A079BE6BC11%7D&file=Data_SSOP_03_BM02_phi%E1%BA%BFu%20ki%E1%BB%83m%20tra%20v%E1%BB%87%20sinh%20h%C3%A0ng%20ng%C3%A0y.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2125"
+  },
+  {
+    "image": "./img/ve_sinh.png",
+    "name": "Phiếu kiểm tra vệ sinh hằng ngày (Áp dụng cho vệ sinh cá nhân)",
+    "id": "VHW/ATTP/SSOP-004/BM01",
+    "version": "113",
+    "uselink": "https://forms.office.com/r/Ktm7MBvYgR",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B47E22B84-ED7A-46D1-AD5D-0A501103FF46%7D&file=VHW_SSOP-ATTP-004_BM01%20-%20PHI%E1%BA%BEU%20KI%E1%BB%82M%20TRA%20V%E1%BB%86%20SINH%20H%E1%BA%B0NG%20NG%C3%80Y%20(VS%20C%C3%81%20NH%C3%82N)%201.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=6ad25ad7-0a91-485e-a7ab-8c7d0c837588&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
+    "date": "12-Jun-2126"
+  },
+  {
+    "image": "./img/hoa_chat.png",
+    "name": "Điều kiện vệ sinh khu vực bảo quản hóa chất",
+    "id": "VHW/ATTP/SSOP-005/BM01",
+    "version": "114",
+    "uselink": "https://forms.office.com/r/2ULMADSKGh?origin=lprLink",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B52D247B1-2357-477F-8BDD-21D614A7E63C%7D&file=Data_%C4%90i%E1%BB%81u%20ki%E1%BB%87n%20v%E1%BB%87%20sinh%20khu%20v%E1%BB%B1c%20h%C3%B3a%20ch%E1%BA%A5t.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2127"
+  },
+  {
+    "image": "./img/pest.png",
+    "name": "Biểu mẫu kiểm soát động vật gây hại",
+    "id": "VHW/ATTP/SSOP-007/BM01",
+    "version": "115",
+    "uselink": "https://forms.office.com/r/3dktNnsMkc",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B16820F54-DE66-49E7-95AA-8069A9145AD7%7D&file=Data_SSOP%2007_KS_%C4%91%E1%BB%99ng_v%E1%BA%ADt_g%C3%A2y_h%E1%BA%A1i.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2128"
+  },
+  {
+    "image": "./img/breakdown.png",
+    "name": "Báo cáo sự cố trong ca",
+    "id": "VHW/SX/TT-001/BM03",
+    "version": "173",
+    "uselink": "./static_form/BM_GHI_NHAN_DUNG_MAY_TRONG_CA_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B9B643E23-14D3-49A0-A4B1-312F44E49B75%7D&file=Data_BM_DUNG_MAY_TRONG_CA.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
+    "date": "12-Jun-2186"
+  },
+  {
+    "image": "./img/loss.png",
+    "name": "Biểu mẫu ghi nhận số lượng bán thành phẩm hỏng line",
+    "id": "BM04.VH/TT-SX/01",
+    "version": "180",
+    "uselink": "./static_form/BM_GHI_NHAN_BTP_HU_HONG_file1html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B859FD6CC-3871-4E84-88A8-8E5F2DBCD5BC%7D&file=BM_GHI_NHAN_BTP_HU_HONG.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2193"
+  }
+]
