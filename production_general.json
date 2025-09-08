@@ -67,8 +67,9 @@
     "name": "Biểu mẫu ghi nhận số lượng bán thành phẩm hỏng line",
     "id": "BM04.VH/TT-SX/01",
     "version": "180",
-    "uselink": "./static_form/BM_GHI_NHAN_BTP_HU_HONG_file1html",
+    "uselink": "./static_form/BM_GHI_NHAN_BTP_HU_HONG_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B859FD6CC-3871-4E84-88A8-8E5F2DBCD5BC%7D&file=BM_GHI_NHAN_BTP_HU_HONG.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2193"
   }
 ]
+
