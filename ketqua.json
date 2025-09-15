@@ -1,10 +1,10 @@
 [
   {
-    "Hạng": "1",
-    "Họ và tên": "Huỳnh Anh Khoa",
-    "Bộ phận": "QA",
-    "Số câu đúng": "5",
-    "Thời gian sử dụng": "935",
-    "Số điểm tổng": "10000"
+    "No": "1",
+    "Name": "Huỳnh Anh Khoa",
+    "Dept": "QA",
+    "Correct": "5",
+    "Time": "935",
+    "Score": "10000"
   }
 ]
