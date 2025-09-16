@@ -34,5 +34,14 @@
     "uselink": "./static_form/BM_KET_QUA_ONLINE_PET_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B8F79DEBF-42C3-456D-B66E-1C03CAD81CBF%7D&file=KETQUA_ONLINE_PET.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2282"
+  },
+  {
+    "image": "./img/qc.png",
+    "name": "BM ghi nhận kết quả online CSD",
+    "id": "Submit tao QLone",
+    "version": "269",
+    "uselink": "./static_form/BM_KET_QUA_ONLINE_CSD_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B6782D2D7-E45F-4D17-9AA0-8C2B45C59700%7D&file=KETQUA_ONLINE_CSD.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2282"
   }
 ]
