@@ -58,7 +58,7 @@
     "name": "BM kiểm tra nhập nguyên vật liệu phụ gia",
     "id": "VHW/KTCN/HD-001/BM01",
     "version": "64",
-    "uselink": "./static_form/BM_KIEM_TRA_NVL_file1",
+    "uselink": "./static_form/BM_KIEM_TRA_NVL_file1.html",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B53BF7E41-DF2D-45A1-B3DA-FFE95915498C%7D&file=Data_BM_KIEM_TRA_NHAP_NVL.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2077"
   },
@@ -313,5 +313,14 @@
     "uselink": "https://forms.office.com/r/g9WALmUXJR",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE867BAE6-FE17-4F4D-B396-DEE9DBEC06B6%7D&file=Data_centerline_250.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
     "date": "12-Jun-2114"
+  },
+  {
+    "image": "./img/softener.png",
+    "name": "Phiếu kiểm tra các bước khi thực hiện tái sinh làm mềm 1900",
+    "id": "VHC/KTCN-HD-021/BM01",
+    "version": "99",
+    "uselink": "./static_form/TAI_SINH_LAM_MEM_1900_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B162A5473-73D4-4B0E-9B6A-051B9EC63450%7D&file=Data_TAI_SINH_LAM_MEM_1900.xlsx&action=default&mobileredirect=true",
+    "date": "12-Jun-2112"
   }
 ]
