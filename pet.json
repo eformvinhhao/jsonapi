@@ -88,5 +88,23 @@
     "uselink": "https://forms.office.com/r/6iBcWZgfnY?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B5DB51AF0-A338-4C28-99F6-E4F799D8185C%7D&file=VHW_SX_HD-008.BM01%20-%20NH%E1%BA%ACT%20K%C3%9D%20V%E1%BA%ACN%20H%C3%80NH%20M%C3%81Y%20N%C3%89N%20CAO%20%C3%81P%20FUJI.xlsx&action=edit&mobileredirect=true&wdMsFormsCorrelationId=5adb50f1-1da8-4ea1-ab27-513b134104ad&wdtf=%20Microsoft.Office.Excel.FMsFormsMetadataInWorkbookMetadata%3Atrue",
     "date": "12-Jun-2238"
+  },
+  {
+    "image": "./img/pet.png",
+    "name": "Biểu mẫu kiểm tra ngoại quan chai máy Thủ Công",
+    "id": "BM02.VH/HD-SX/01",
+    "version": "218",
+    "uselink": "./static_form/BM_KIEM_TRA_NGOAI_QUAN_THU_CONG_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B49CC9636-E5C3-4B40-AC94-36450DBDBCCE%7D&file=Data_ki%C3%AA%CC%89m_tra_ngoa%CC%A3i_quan_thu%CC%89_c%C3%B4ng.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2231"
+  },
+  {
+    "image": "./img/pet.png",
+    "name": "Biểu mẫu kiểm tra ngoại quan chai máy Chiaming",
+    "id": "BM03.VH/HD-SX/02",
+    "version": "221",
+    "uselink": "./static_form/BM_KIEM_TRA_NGOAI_QUAN_CHIAMING_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B53F75038-7973-473E-A660-4B3C4D5F7EFD%7D&file=KETQUA_ONLINE_PET.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2234"
   }
 ]
