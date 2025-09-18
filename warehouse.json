@@ -28,21 +28,12 @@
   },
   {
     "image": "./img/xe_tai.png",
-    "name": "Phiếu kiểm tra Container (A5)",
+    "name": "Phiếu kiểm tra container/xe (A5)",
     "id": "VHW/KV/QT-001/BM03",
     "version": "163",
     "uselink": "https://forms.office.com/r/J0KZtGJGKJ?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B10972FF6-01E8-425C-B6C7-8CF7F78D7B73%7D&file=Data_PHI%E1%BA%BEU%20KI%E1%BB%82M%20TRA%20XE%202.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
     "date": "12-Jun-2176"
-  },
-  {
-    "image": "./img/xe_tai.png",
-    "name": "Phiếu kiểm tra xe (A5)",
-    "id": "VHW/KV/QT-001/BM04",
-    "version": "164",
-    "uselink": "https://forms.office.com/r/J0KZtGJGKJ?origin=lprLink",
-    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B10972FF6-01E8-425C-B6C7-8CF7F78D7B73%7D&file=Data_PHI%E1%BA%BEU%20KI%E1%BB%82M%20TRA%20XE%202.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
-    "date": "12-Jun-2177"
   },
   {
     "image": "./img/hoa_chat.png",
@@ -63,3 +54,4 @@
     "date": "12-Jun-2180"
   }
 ]
+
