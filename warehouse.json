@@ -10,7 +10,7 @@
   },
   {
     "image": "./img/ve_sinh.png",
-    "name": "Bang theo dõi nhiệt độ và độ ẩm kho",
+    "name": "Bảng theo dõi nhiệt độ và độ ẩm kho",
     "id": "VHW/KV/QĐ-005/BM02",
     "version": "152",
     "uselink": "https://forms.office.com/r/Cjh8pEaKJZ",
@@ -81,3 +81,4 @@
     "date": "12-Jun-2180"
   }
 ]
+
