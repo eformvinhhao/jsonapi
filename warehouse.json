@@ -9,7 +9,7 @@
     "date": "12-Jun-2165"
   },
   {
-    "image": "./img/ve_sinh.png",
+    "image": "./img/centerline.png",
     "name": "Bảng theo dõi nhiệt độ và độ ẩm kho",
     "id": "VHW/KV/QĐ-005/BM02",
     "version": "152",
@@ -19,7 +19,7 @@
   },
   {
     "image": "./img/ve_sinh.png",
-    "name": "Bảng kê nhâp bao bì thu hồi hàng ngày",
+    "name": "Bảng kê nhập bao bì thu hồi hàng ngày",
     "id": "VHW/KV/QĐ-005/BM03",
     "version": "152",
     "uselink": "https://forms.office.com/r/NPLmmSvWjL?origin=lprLink",
@@ -37,7 +37,7 @@
   },
   {
     "image": "./img/phan_tich.png",
-    "name": "Bảng kê chứng từ nhâp kho",
+    "name": "Bảng kê chứng từ nhập kho",
     "id": "VHW/KV/QĐ-005/BM06",
     "version": "156",
     "uselink": "./static_form/CHUNG_TU_NHAP_KHO_file1.html",
@@ -46,7 +46,7 @@
   },
   {
     "image": "./img/pallet.png",
-    "name": "Phiếu kiểm tra Pallet ( A5)",
+    "name": "Phiếu kiểm tra Pallet (A5)",
     "id": "VHW/KV/QĐ-03/BM02",
     "version": "157",
     "uselink": "https://forms.office.com/r/sSLRBukiNM",
@@ -81,4 +81,3 @@
     "date": "12-Jun-2180"
   }
 ]
-
