@@ -9,13 +9,40 @@
     "date": "12-Jun-2165"
   },
   {
-    "image": "./img/phan_tich.png",
+    "image": "./img/ve_sinh.png",
+    "name": "Bang theo dõi nhiệt độ và độ ẩm kho",
+    "id": "VHW/KV/QĐ-005/BM02",
+    "version": "152",
+    "uselink": "https://forms.office.com/r/Cjh8pEaKJZ",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BAC5D23EE-4A4F-427C-A881-C5BD5FF5E39F%7D&file=VHW_KV_Q%C4%90-005_BM02%20-%20B%E1%BA%A2NG%20THEO%20D%C3%95I%20NHI%E1%BB%86T%20%C4%90%E1%BB%98%20V%C3%80%20%C4%90%E1%BB%98%20%E1%BA%A8M%20KHO.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2165"
+  },
+  {
+    "image": "./img/ve_sinh.png",
     "name": "Bảng kê nhâp bao bì thu hồi hàng ngày",
     "id": "VHW/KV/QĐ-005/BM03",
-    "version": "153",
+    "version": "152",
     "uselink": "https://forms.office.com/r/NPLmmSvWjL?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BCDD16667-505C-42FD-BE28-BC11BEA7ED13%7D&file=Data_B%E1%BA%A3ng%20k%C3%AA%20bao%20b%C3%AC%20thu%20h%E1%BB%93i.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
-    "date": "12-Jun-2166"
+    "date": "12-Jun-2165"
+  },
+  {
+    "image": "./img/phan_tich.png",
+    "name": "Bảng kê chứng từ giao dịch Kho",
+    "id": "VHW/KV/QĐ-005/BM05",
+    "version": "155",
+    "uselink": "./static_form/CHUNG_TU_GIAO_DICH_KHO_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7BE3630E4E-6344-46C1-A738-F5FA17163740%7D&file=Data_b%E1%BA%A3ng_k%C3%AA_ch%E1%BB%A9ng_t%E1%BB%AB_giao_d%E1%BB%8Bch_kho.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2168"
+  },
+  {
+    "image": "./img/phan_tich.png",
+    "name": "Bảng kê chứng từ nhâp kho",
+    "id": "VHW/KV/QĐ-005/BM06",
+    "version": "156",
+    "uselink": "./static_form/CHUNG_TU_NHAP_KHO_file1.html",
+    "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/e-form_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B77E38695-62E6-4AEE-8949-FE9EE0ABD3E4%7D&file=Data_b%E1%BA%A3ng_k%C3%AA_ch%E1%BB%A9ng_t%E1%BB%AB_nh%E1%BA%ADp_kho.xlsx&action=default&mobileredirect=true&wdOrigin=OUTLOOK-METAOS.FILEBROWSER",
+    "date": "12-Jun-2169"
   },
   {
     "image": "./img/pallet.png",
@@ -28,8 +55,8 @@
   },
   {
     "image": "./img/xe_tai.png",
-    "name": "Phiếu kiểm tra container/xe (A5)",
-    "id": "VHW/KV/QT-001/BM03",
+    "name": "Phiếu kiểm tra xe/Container (A5)",
+    "id": "0",
     "version": "163",
     "uselink": "https://forms.office.com/r/J0KZtGJGKJ?origin=lprLink",
     "datalink": "https://masangroup-my.sharepoint.com/:x:/r/personal/qacqvh_vinhhao_com_vn/_layouts/15/Doc.aspx?sourcedoc=%7B10972FF6-01E8-425C-B6C7-8CF7F78D7B73%7D&file=Data_PHI%E1%BA%BEU%20KI%E1%BB%82M%20TRA%20XE%202.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1",
@@ -54,4 +81,3 @@
     "date": "12-Jun-2180"
   }
 ]
-
